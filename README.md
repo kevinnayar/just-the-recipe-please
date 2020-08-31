@@ -1,2 +1,3 @@
-# just-the-recipe-please
-Just the recipe, please.
+# Just the recipe, please.
+
+Spare me the life story.
